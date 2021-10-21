@@ -1,5 +1,5 @@
 # my-first-repo
-hackthoberfest
+<!-- hackthoberfest -->
 2nd
 3rd
 4th
